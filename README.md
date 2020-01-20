@@ -12,7 +12,7 @@ Average silhouette method computes the average silhouette of observations for di
 ![alt text](https://scikit-learn.org/stable/_images/sphx_glr_plot_kmeans_silhouette_analysis_003.png )
 ![alt text](https://scikit-learn.org/stable/_images/sphx_glr_plot_kmeans_silhouette_analysis_004.png)
 
-#DBSCAN : 
+# DBSCAN : 
 DBSCAN - Density-Based Spatial Clustering of Applications with Noise. Finds core samples of high density and expands clusters from them. Good for data which contains clusters of similar density.
 ![alt text](http://muthu.co/wp-content/uploads/2018/07/Snip20180707_105.png)
 
